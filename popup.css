@@ -1,0 +1,40 @@
+body {
+    background: #f1f5f9;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.box {
+    width: 300px;
+    text-align: center;
+}
+
+.pickColorBtn {
+    width: 200px;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    padding: 5px;
+    background: blue;
+    opacity: 0.8;
+    color: white;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.colorBox {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 2px;
+}
+
+.selectedColor {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.colorCode {
+    margin-left: 5px;
+    font-weight: bold;
+}
