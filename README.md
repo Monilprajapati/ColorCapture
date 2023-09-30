@@ -20,5 +20,6 @@ ColorCapture is your indispensable tool for web development and design. Say good
 
    ```bash
    git clone https://github.com/monilprajapati/ColorCapture.git
+   
    cd ColorCapture
    ```
