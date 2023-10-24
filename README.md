@@ -12,7 +12,7 @@ ColorCapture is your indispensable chrome extension for web development and desi
 
 - **Seamless Integration**: Integrate ColorSnap Pro into your web development workflow.
 
-- **Boost Productivity**: Speed up design and coding with accurate color codes at your fingertips.
+<!-- - **Boost Productivity**: Speed up design and coding with accurate color codes at your fingertips. -->
 
 ## Getting Started
 
