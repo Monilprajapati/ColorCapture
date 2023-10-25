@@ -8,7 +8,7 @@ ColorCapture is your indispensable chrome extension for web development and desi
 
 - **Zoom and Magnify**: Get pixel-perfect precision with zoom and magnify.
 
-<!-- - **Copy to Clipboard**: Easily copy color codes to your clipboard for quick use. -->
+- **Copy to Clipboard**: Easily copy color codes to your clipboard for quick use.
 
 - **Seamless Integration**: Integrate ColorSnap Pro into your web development workflow.
 
