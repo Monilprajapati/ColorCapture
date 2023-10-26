@@ -14,9 +14,9 @@ ColorCapture is your indispensable chrome extension for web development and desi
 
 - **Boost Productivity**: Speed up design and coding with accurate color codes at your fingertips.
 
-## Getting Started
+## Getting Started : 
 
-1. Clone this repository to your local machine:
+Clone this repository to your local machine:
 
    ```bash
    git clone https://github.com/monilprajapati/ColorCapture.git
