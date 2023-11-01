@@ -2,6 +2,7 @@
 
 ColorCapture is your indispensable chrome extension for web development and design. Say goodbye to manually extracting color codes from web pages. With ColorSnap Pro, you can effortlessly pick colors from any text on a webpage and instantly obtain their precise color codes.
 
+
 ## Features
 
 - **Effortless Color Capture**: Click on any text element to extract the color used.
